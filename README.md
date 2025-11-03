@@ -40,7 +40,7 @@ Acesse [crimsonzerohub.xyz/alura](https://crimsonzerohub.xyz/alura) e use a inte
 - Sistema faz login direto na Alura
 
 **Opção C: Cookies Diretos (Usuários Google)**
-- Tutorial no [Disocrd Server]([https://crimsonzerohub.xyz/alura](https://discord.com/invite/hdY6SDUe8J)
+- Tutorial no [Disocrd Server](https://discord.com/invite/hdY6SDUe8J)
 - Login mais rápido, mas pode expirar
 - Ideal para uso ocasional ou quem entra via Google
 - 
