@@ -34,7 +34,7 @@ Acesse [crimsonzerohub.xyz/alura](https://crimsonzerohub.xyz/alura) e use a inte
 **Opção A: Login SEDUCSP**
 - Insira seu **RA** e **Senha** da Sala do Futuro
 - Sistema obtém acesso automaticamente à Alura
-- 
+
 **Opção B: Gmail + Senha**
 - Insira seu **E-mail** e **Senha** da sua conta Google
 - Sistema faz login direto na Alura
