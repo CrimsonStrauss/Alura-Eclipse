@@ -43,7 +43,7 @@ Acesse [crimsonzerohub.xyz/alura](https://crimsonzerohub.xyz/alura) e use a inte
 - Tutorial no [Discord Server](https://discord.com/invite/hdY6SDUe8J)
 - Login mais rápido, mas pode expirar
 - Ideal para uso ocasional ou quem entra via Google
-- 
+
 ### 3️⃣ Selecione Cursos
 - Visualize todos os cursos disponíveis
 - Veja progresso atual de cada curso
@@ -65,20 +65,6 @@ Acesse [crimsonzerohub.xyz/alura](https://crimsonzerohub.xyz/alura) e use a inte
 
 ---
 
-## ⚙️ Características Técnicas
-
-### 🎓 Tipos de Atividades Suportadas
-
-| Tipo | Descrição | Automação |
-|------|-----------|-----------|
-| **VIDEO** | Vídeos de aula | ✅ Marca como assistido |
-| **SINGLE_CHOICE** | Questões múltipla escolha | ✅ responde corretamente |
-| **SORT_BLOCKS** | Ordenar blocos de código | ✅ responde corretamente |
-| **LINK_SUBMIT** | Envio de links/projetos | ✅ Envia link genérico |
-| **VISIT_ONLY** | Textos/explicações | ✅ Marca como visitado |
-
----
-
 ## 🔐 Segurança & Privacidade
 
 - ✅ **Tokens criptografados** - Armazenados com segurança no servidor
@@ -92,13 +78,11 @@ Acesse [crimsonzerohub.xyz/alura](https://crimsonzerohub.xyz/alura) e use a inte
 ### 📌 Sobre Progresso
 - Sistema marca tarefas como completas
 - Progresso é atualizado em tempo real
-- Alguns cursos podem exigir finalização manual
 
 ### ⏱️ Recomendações de Uso
 - Use delays de 10-30 segundos (mais seguro)
 - Não processe muitos cursos simultaneamente
 - Verifique progresso após conclusão
-- Finalize cursos 100% manualmente se necessário
 
 ---
 
@@ -136,7 +120,6 @@ Este projeto **NÃO é open source**. O código-fonte não está disponível pub
 **🆓 Versão FREE (Gratuita)**
 - Automação completa de cursos
 - Todos os tipos de atividades
-- Processamento em background
 - Suporte básico no Discord
 - **100% gratuito para sempre**
 
